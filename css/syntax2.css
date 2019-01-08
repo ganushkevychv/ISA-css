@@ -1,0 +1,23 @@
+/*********************************
+* Author: Ganushkevych Vladyslav
+* Date: 08.01.19
+**********************************/
+
+
+/* Style all p tags */
+
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+#header p {
+    font-size: 24px;
+}
+
+
+/* Style all header tags*/
+
+h1 {
+    font-size: 44px;
+}
